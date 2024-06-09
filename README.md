@@ -4,7 +4,7 @@
   
 - 👀 I’m interested in ...
       Data Analysis Projects: Exploring datasets from various domains to sharpen my analytical skills.
-      Learning New Tools: Delving into tools like Python, SQL, and Tableau to enhance my data analysis toolkit.
+      Learning New Tools: Delving into tools like Python, SQL, PowerBi,Tableau and Excel to enhance my data analysis toolkit.
   
 - 🌱 I’m currently learning ...
       Python: Mastering data analysis libraries like Pandas and NumPy.
